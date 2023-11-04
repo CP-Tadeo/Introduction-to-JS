@@ -1,0 +1,13 @@
+lineup,John Doe,VIP
+lineup,Jane Smith,regular
+arrive,supervisor
+lineup,Mark Johnson,VIP
+serve
+lineup,Anna Lee,VIP
+serve
+serve
+leave,supervisor
+lineup,Michael Brown,regular
+serve
+serve
+serve
